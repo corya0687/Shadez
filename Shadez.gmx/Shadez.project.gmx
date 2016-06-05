@@ -5,9 +5,20 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_marcus_facing_down</sprite>
+    <sprite>sprites\spr_marcus_facing_left</sprite>
+    <sprite>sprites\spr_marus_facing_right</sprite>
+    <sprite>sprites\spr_marcus_facing_up</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_marcus</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\intro_room</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
