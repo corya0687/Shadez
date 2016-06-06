@@ -8,7 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_marcus_facing_down</sprite>
     <sprite>sprites\spr_marcus_facing_left</sprite>
-    <sprite>sprites\spr_marus_facing_right</sprite>
+    <sprite>sprites\spr_marcus_facing_right</sprite>
     <sprite>sprites\spr_marcus_facing_up</sprite>
   </sprites>
   <backgrounds name="background"/>
