@@ -11,7 +11,15 @@
     <sprite>sprites\spr_marcus_facing_right</sprite>
     <sprite>sprites\spr_marcus_facing_up</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_home_town</background>
+    <background>background\bg_roofs</background>
+    <background>background\bg_windows_and_walls</background>
+    <background>background\bg_furniture</background>
+    <background>background\bg_city_ambience</background>
+    <background>background\background5</background>
+    <background>background\bg_grounds</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_marcus</object>

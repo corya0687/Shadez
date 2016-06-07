@@ -51,23 +51,23 @@
             <string>///Handle input logic
 if(keyboard_check(vk_left)){
 sprite_index = spr_marcus_facing_left
-x -= 1;
+x -= 3;
 } 
 
 if(keyboard_check(vk_right)){
 sprite_index = spr_marcus_facing_right
-x += 1;
+x += 3;
 } 
 
 
 if(keyboard_check(vk_up)){
 sprite_index = spr_marcus_facing_up
-y -= 1;
+y -= 3;
 } 
 
 if(keyboard_check(vk_down)){
 sprite_index = spr_marcus_facing_down
-y += 1;
+y += 3;
 } 
 </string>
           </argument>
